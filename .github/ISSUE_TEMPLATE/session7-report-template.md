@@ -24,14 +24,12 @@ Student No. of member 2: `[FILL HERE]`
     - [ ] `FILL HERE with screenshot of execution`
    
 - [ ]  Checking the process ids
-    - [ ] `FILL HERE with screenshot of code`
-    - [ ] `FILL HERE with execution of code`
-    - [ ] `FILL HERE with your descriptions (write in English or Persian)`
+    - [ ] ![thread](https://user-images.githubusercontent.com/45646480/130464222-a022f966-8d9c-42a5-a08a-7e0a31849613.JPG)
+    - [ ] ba estefade az pthread_create thread ra misazim va tabeye myThreadFun seda zade mishavad ke meghdare pid pardaze chap mishavad. va mibinim ham meghdari ke da tabe chap shode ham meghdari ke dar main chap shode barabar ast zira pardaze ma avaz nashode ast.
 
 - [ ]  Shared variables
-    - [ ] `FILL HERE with screenshot of codes`
-    - [ ]  `FILL HERE with screenshot of output`
-    - [ ]  `FILL HERE with your descriptions (write in English or Persian) on how the variable has been changed and why`
+    - [ ] ![oslab2](https://user-images.githubusercontent.com/45646480/130467921-cb67ddb0-5bcb-4005-9e9d-ffba30a82e12.JPG)
+    - [ ]  mibinim ke oslab dar main ebteda 2 bude sepas dar myThreadFun oslab ra 3 mikonim va zamani ke dar main chap mishavad 3 chap mishavad ke natije midahad har taghiri dar thread ha ruye shared variables etefagh bioftad dar main ham anjam mishavad.
 
 - [ ] Sum of 2 to n
     1. [ ] `[FILL HERE with screenshot of code]`
