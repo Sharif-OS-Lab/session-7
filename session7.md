@@ -103,7 +103,7 @@ gcc thread.c –o threads –lpthread
 ```c
 void* kid(void* param) {
 	int local_param;
-	printf("Thread %d, pid %d, addresses: &global: %X, &local: &X \n", 
+	printf("Thread %d, pid %d, addresses: &global: %X, &local: %X \n", 
 	         pthread_self(), getpid(), &global_param , &local_param);
 	global_param++;
 	printf("In Thread %d, incremented global parameter=%d\n", 
